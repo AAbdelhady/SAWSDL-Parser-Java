@@ -2,19 +2,19 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
-	<classpathentry kind="lib" path="D:/EasyWSDL Libs/easywsdl-2.1-with-dependencies/easywsdl-wsdl-2.1/easywsdl-schema-2.1.jar" sourcepath="D:/EasyWSDL Libs/easywsdl-schema-2.1/easywsdl-schema-2.1-sources.jar">
+	<classpathentry kind="lib" path="E:/Android Projects/EasyWSDL_Test2/libs/easywsdl-schema-2.1.jar" sourcepath="D:/EasyWSDL Libs/easywsdl-schema-2.1/easywsdl-schema-2.1-sources.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="jar:file:/D:/EasyWSDL Libs/easywsdl-schema-2.1/easywsdl-schema-2.1-javadoc.jar!/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/EasyWSDL Libs/easywsdl-2.1-with-dependencies/easywsdl-wsdl-2.1/easywsdl-wsdl-2.1.jar" sourcepath="D:/EasyWSDL Libs/easywsdl-2.1/easywsdl-wsdl-2.1-sources.jar">
+	<classpathentry kind="lib" path="E:/Android Projects/EasyWSDL_Test2/libs/easywsdl-wsdl-2.1.jar" sourcepath="D:/EasyWSDL Libs/easywsdl-2.1/easywsdl-wsdl-2.1-sources.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/D:/EasyWSDL Libs/easywsdl-2.1/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/EasyWSDL Libs/easywsdl-2.1-with-dependencies/easywsdl-wsdl-2.1/jaxb-api-2.1.jar"/>
-	<classpathentry kind="lib" path="D:/EasyWSDL Libs/easywsdl-2.1-with-dependencies/easywsdl-wsdl-2.1/jaxb-impl-2.1.10.jar" sourcepath="D:/EasyWSDL Libs/jaxb-impl-2.1.10-sources.jar"/>
-	<classpathentry kind="lib" path="D:/EasyWSDL Libs/easywsdl-ext-sawsdl-2.1/easywsdl-ext-sawsdl-2.1.jar" sourcepath="D:/EasyWSDL Libs/easywsdl-ext-sawsdl-2.1/easywsdl-ext-sawsdl-2.1-sources.jar">
+	<classpathentry kind="lib" path="E:/Android Projects/EasyWSDL_Test2/libs/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/EasyWSDL_Test2/libs/jaxb-impl-2.1.10.jar" sourcepath="D:/EasyWSDL Libs/jaxb-impl-2.1.10-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Android Projects/EasyWSDL_Test2/libs/easywsdl-ext-sawsdl-2.1.jar" sourcepath="D:/EasyWSDL Libs/easywsdl-ext-sawsdl-2.1/easywsdl-ext-sawsdl-2.1-sources.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/D:/EasyWSDL Libs/easywsdl-ext-sawsdl-2.1/"/>
 		</attributes>
